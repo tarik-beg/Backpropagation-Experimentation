@@ -1,0 +1,1 @@
+This is a repository meant for implementation and experimentation with the Backpropagation algorithm.
