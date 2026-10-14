@@ -1,5 +1,5 @@
 #include <iostream>
-#include ".vscode/lib/NeuralNetwork.h"
+#include "lib/NeuralNetwork.h"
 
 int main(){
     const int epochs=3;
